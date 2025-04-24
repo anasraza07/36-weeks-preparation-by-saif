@@ -1,0 +1,10 @@
+Jitna mushkil se seekhogay utne ache coder banogay yaani jitni efforts daalogay utna best hoga wrna aasaani se krke aagay bhaag jaoge to bhool jaogay
+apne andr learning ka wo junoon jazba rkho ke learning krni hai bs agr eik project ya backend javascript main banaalia ab try kro kisi aur language main, isi tarh learning hoti rehti hai rukna nhi hai bs, learning krte waqt curiosity bht zaroori hai
+DSA company tk le jaa skta hai bs, interview pass krwaa skta hai that's it 
+agr development aur system design ache se aata hai to skip kr skte ho time miljaye to baad main krlo
+App development aur web development dono bht ache hain, dono ka scope hai
+English bht zaada zaroori hai communication ke liye, communication skills naa hon chal jayega but english aani chahiye aur coding skills to 100% must hain
+Backend, react js sb krlenge iske baad main journey start hoti hai jahan log chorte hain aur wahi se demand brhti hai competition kam hota hai, so typescript pr aake log chorne lagte hain iske baad second database like postgress, server less, deployment devops wagera ye sb cheezen tumhen alag banaata hai jis se stand out kr paogay
+
+Assignment complete krne ke baad ye command run krni hai:
+npx jest ./tests/filename.test.js
